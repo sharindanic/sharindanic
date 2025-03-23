@@ -35,10 +35,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/sharindanic"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/sharindanic" /></a></p><br><br>
 
-<img src="https://raw.githubusercontent.com/sharindanic/sharindanic/output/snake.svg" alt="Snake animation" />
-
-###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharindanic&show_icons=true&locale=en&layout=compact" alt="sharindanic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharindanic&show_icons=true&locale=en" alt="sharindanic" /></p>
 
