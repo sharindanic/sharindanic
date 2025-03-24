@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **c++ & Java**
+- 🌱 I’m currently learning **c++ & JavaFx**
 
 - 👯 I’m looking to collaborate on **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sharindanic](https://github.com/sharindanic)
 
-- 💬 Ask me about **JavaFx**
+- 💬 Ask me about **DSA or F1**
 
 - 📫 How to reach me **nicolfernando515@gmail.com**
 
