@@ -61,6 +61,22 @@
     <img src="https://reactnative.dev/img/header_logo.svg" 
          alt="reactnative" width="40" height="40"/>
   </a>
+  <p align="left">
+
+  <!-- Dart -->
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" 
+         alt="dart" width="40" height="40"/>
+  </a>
+
+  <!-- Spring Boot -->
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" 
+         alt="springboot" width="40" height="40"/>
+  </a>
+
+</p>
+
 
 </p>
 
