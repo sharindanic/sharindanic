@@ -23,8 +23,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/nicol fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicol fernando" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nicol fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nicol fernando" height="30" width="40" /></a>
-<a href="https://kaggle.com/sharindanic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sharindanic" height="30" width="40" /></a>
-<a href="https://fb.com/nicol fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nicol fernando" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nicolfdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nicolfdo" height="30" width="40" /></a>
 </p>
 
@@ -61,7 +59,6 @@
     <img src="https://reactnative.dev/img/header_logo.svg" 
          alt="reactnative" width="40" height="40"/>
   </a>
-  <p align="left">
 
   <!-- Dart -->
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
@@ -77,8 +74,6 @@
 
 </p>
 
-
-</p>
 
 
 
