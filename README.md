@@ -1,5 +1,5 @@
 <h1 align="center">Sup I'm Nicol</h1>
-<h3 align="center">A passionate Backend developer who hates design and colors</h3>
+<h3 align="center">A passionate Backend developer who hates colors</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharindanic&label=Profile%20views&color=0e75b6&style=flat" alt="sharindanic" /> </p>
 
@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **Something**
 
-- 🌱 I’m currently learning **c++ & Dart**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sharindanic](https://github.com/sharindanic)
-
 - 💬 Ask me about **DSA,OOP or FOOTBALL**
 
-- 📫 How to reach me **nicolfernando515@gmail.com**
+- 📫 How to reach me *nicolfernando515@gmail.com*
 
 - ⚡ Fun fact **I love Game streaming**
 
